@@ -3,7 +3,8 @@
 
 testEquality()
 {
-  assertEquals 1 1
+  #assertEquals 1 1
+  assertEquals 0 1
 }
 
 # load shunit2
